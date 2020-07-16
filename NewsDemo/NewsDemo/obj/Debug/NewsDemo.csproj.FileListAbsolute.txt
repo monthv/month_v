@@ -1,0 +1,11 @@
+c:\users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\NewsDemo.dll
+c:\users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\NewsDemo.pdb
+c:\users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\obj\Debug\NewsDemo.csprojResolveAssemblyReference.cache
+c:\users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\obj\Debug\NewsDemo.dll
+c:\users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\obj\Debug\NewsDemo.pdb
+C:\Users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\DAL.dll
+C:\Users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\Helper.dll
+C:\Users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\Model.dll
+C:\Users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\DAL.pdb
+C:\Users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\Helper.pdb
+C:\Users\郭赋荣\documents\visual studio 2012\Projects\NewsDemo\NewsDemo\bin\Model.pdb
