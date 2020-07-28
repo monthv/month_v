@@ -1,0 +1,13 @@
+E:\web\ManMonth\ManMonth_IServices\bin\Release\ManMonth_IServices.dll
+E:\web\ManMonth\ManMonth_IServices\bin\Release\ManMonth_IServices.pdb
+E:\web\ManMonth\ManMonth_IServices\bin\Release\ManMonth_Model.dll
+E:\web\ManMonth\ManMonth_IServices\bin\Release\EntityFramework.dll
+E:\web\ManMonth\ManMonth_IServices\bin\Release\ManMonth_Model.pdb
+E:\web\ManMonth\ManMonth_IServices\bin\Release\ManMonth_Model.dll.config
+E:\web\ManMonth\ManMonth_IServices\bin\Release\EntityFramework.xml
+E:\web\ManMonth\ManMonth_IServices\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\web\ManMonth\ManMonth_IServices\obj\Release\ManMonth_IServices.csprojAssemblyReference.cache
+E:\web\ManMonth\ManMonth_IServices\obj\Release\ManMonth_IServices.csproj.CoreCompileInputs.cache
+E:\web\ManMonth\ManMonth_IServices\obj\Release\ManMonth_IServices.csproj.CopyComplete
+E:\web\ManMonth\ManMonth_IServices\obj\Release\ManMonth_IServices.dll
+E:\web\ManMonth\ManMonth_IServices\obj\Release\ManMonth_IServices.pdb

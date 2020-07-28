@@ -1,0 +1,13 @@
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\ManMonth_IRepository.dll
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\ManMonth_IRepository.pdb
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\ManMonth_Model.dll
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\EntityFramework.dll
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\ManMonth_Model.pdb
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\ManMonth_Model.dll.config
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\EntityFramework.xml
+E:\web\ManMonth\ManMonth_IRepository\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\web\ManMonth\ManMonth_IRepository\obj\Debug\ManMonth_IRepository.csprojAssemblyReference.cache
+E:\web\ManMonth\ManMonth_IRepository\obj\Debug\ManMonth_IRepository.csproj.CoreCompileInputs.cache
+E:\web\ManMonth\ManMonth_IRepository\obj\Debug\ManMonth_IRepository.csproj.CopyComplete
+E:\web\ManMonth\ManMonth_IRepository\obj\Debug\ManMonth_IRepository.dll
+E:\web\ManMonth\ManMonth_IRepository\obj\Debug\ManMonth_IRepository.pdb

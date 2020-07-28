@@ -1,0 +1,17 @@
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_Services.dll
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_Services.pdb
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_IRepository.dll
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_IServices.dll
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_Model.dll
+E:\web\ManMonth\ManMonth_Services\bin\Debug\EntityFramework.dll
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_IRepository.pdb
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_IServices.pdb
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_Model.pdb
+E:\web\ManMonth\ManMonth_Services\bin\Debug\ManMonth_Model.dll.config
+E:\web\ManMonth\ManMonth_Services\bin\Debug\EntityFramework.xml
+E:\web\ManMonth\ManMonth_Services\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\web\ManMonth\ManMonth_Services\obj\Debug\ManMonth_Services.csprojAssemblyReference.cache
+E:\web\ManMonth\ManMonth_Services\obj\Debug\ManMonth_Services.csproj.CoreCompileInputs.cache
+E:\web\ManMonth\ManMonth_Services\obj\Debug\ManMonth_Services.csproj.CopyComplete
+E:\web\ManMonth\ManMonth_Services\obj\Debug\ManMonth_Services.dll
+E:\web\ManMonth\ManMonth_Services\obj\Debug\ManMonth_Services.pdb

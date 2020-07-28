@@ -1,0 +1,17 @@
+E:\web\ManMonth\ManMonth_Model\bin\Debug\ManMonth_Model.dll.config
+E:\web\ManMonth\ManMonth_Model\bin\Debug\ManMonth_Model.dll
+E:\web\ManMonth\ManMonth_Model\bin\Debug\ManMonth_Model.pdb
+E:\web\ManMonth\ManMonth_Model\bin\Debug\EntityFramework.dll
+E:\web\ManMonth\ManMonth_Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\web\ManMonth\ManMonth_Model\bin\Debug\MySql.Data.dll
+E:\web\ManMonth\ManMonth_Model\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\web\ManMonth\ManMonth_Model\bin\Debug\EntityFramework.xml
+E:\web\ManMonth\ManMonth_Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\web\ManMonth\ManMonth_Model\bin\Debug\MySql.Data.xml
+E:\web\ManMonth\ManMonth_Model\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\web\ManMonth\ManMonth_Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\web\ManMonth\ManMonth_Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\web\ManMonth\ManMonth_Model\obj\Debug\ManMonth_Model.csproj.CoreCompileInputs.cache
+E:\web\ManMonth\ManMonth_Model\obj\Debug\ManMonth_Model.csproj.CopyComplete
+E:\web\ManMonth\ManMonth_Model\obj\Debug\ManMonth_Model.dll
+E:\web\ManMonth\ManMonth_Model\obj\Debug\ManMonth_Model.pdb
